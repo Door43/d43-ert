@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ert:home|Door43 (ert)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ert|d43-ert repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ert/archive/master.zip|d43-ert.zip]]
+
+**Recent Changes**
+{{changes>ns = ert}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ert|Ethnologue data]]
+
